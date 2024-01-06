@@ -1,5 +1,5 @@
 A demo restaurant project. Learning:
-- TabViewa
+- TabViews
 - ScrollViews
 - Dynamically Generating UI Elements using ForEach
 - LazyVGrids
