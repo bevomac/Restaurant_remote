@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1A28AE022B53A30F00CE24FF /* PhotoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A28AE012B53A30F00CE24FF /* PhotoView.swift */; };
 		1A7785652B49237D0011A1CE /* RestaurantApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A7785642B49237D0011A1CE /* RestaurantApp.swift */; };
 		1A7785672B49237D0011A1CE /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A7785662B49237D0011A1CE /* MainView.swift */; };
 		1A7785692B49237E0011A1CE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1A7785682B49237E0011A1CE /* Assets.xcassets */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1A28AE012B53A30F00CE24FF /* PhotoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoView.swift; sourceTree = "<group>"; };
 		1A7785612B49237D0011A1CE /* Restaurant.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Restaurant.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1A7785642B49237D0011A1CE /* RestaurantApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestaurantApp.swift; sourceTree = "<group>"; };
 		1A7785662B49237D0011A1CE /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
@@ -68,6 +70,7 @@
 				1A7785682B49237E0011A1CE /* Assets.xcassets */,
 				1A77856A2B49237E0011A1CE /* Preview Content */,
 				1A7785742B4924240011A1CE /* GalleryView.swift */,
+				1A28AE012B53A30F00CE24FF /* PhotoView.swift */,
 				1A7785762B4924520011A1CE /* AboutView.swift */,
 				1A7785782B4924670011A1CE /* MenuView.swift */,
 				1A77857B2B4925750011A1CE /* DataService.swift */,
@@ -158,6 +161,7 @@
 				1A7785792B4924670011A1CE /* MenuView.swift in Sources */,
 				1A77857E2B4925750011A1CE /* DataService.swift in Sources */,
 				1A77857D2B4925750011A1CE /* MenuListRow.swift in Sources */,
+				1A28AE022B53A30F00CE24FF /* PhotoView.swift in Sources */,
 				1A7785772B4924520011A1CE /* AboutView.swift in Sources */,
 				1A7785672B49237D0011A1CE /* MainView.swift in Sources */,
 				1A77857F2B4925750011A1CE /* MenuItem.swift in Sources */,

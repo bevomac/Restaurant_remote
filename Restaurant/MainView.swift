@@ -31,7 +31,7 @@ struct MainView: View {
                 .tabItem {
                     VStack{
                         Image(systemName: "photo")
-                        Text("About")
+                        Text("Gallery")
                     }
             }
         }
